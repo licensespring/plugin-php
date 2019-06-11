@@ -2,7 +2,7 @@
 Plugin written in PHP used to activate licenses on LicenseSpring using order data from PayPal 
 
 # Installation
-`composer require license-spring/paypal-plugin'`
+`composer require licensespring/plugin-php'`
 
 ## Usage
 ```
