@@ -1,0 +1,15 @@
+{
+    "name": "licensespring/plugin-php",
+    "type": "library",
+    "description": "Plugin written in PHP used to activate licenses on LicenseSpring using order data from PayPal",
+    "keywords": ["licensing","php","paypal","licensespring"],
+    "homepage": "https://github.com/licensespring/plugin-php.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sean B",
+            "email": "sean@censedata.com",
+            "role": "Developer"
+        }
+    ]
+}
